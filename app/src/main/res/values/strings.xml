@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PracticeNewTopic</string>
+    <string name="work_manager">Work Manager</string>
+    <string name="start_work_manager">Start Work Manager</string>
+    <string name="cancel_work_manager">Cancel Work Manager</string>
+    <string name="share_files_with_your_classes_safely">share files\nwith your classes,\nsafely…</string>
+    <string name="login">Login</string>
+    <string name="enter_your_email_address">Enter your email address</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="sign_in_with_email">Login with email</string>
+    <string name="continue_">Continue</string>
+    <string name="by_using_this_app_you_are_agreeing_to_our">By using this app, you are agreeing to our Terms of Service and Privacy Policy</string>
+    <string name="new_to_file_share_create_an_account">New to FileShare? Create an account</string>
+    <string name="click">Click</string>
+
+
+</resources>
