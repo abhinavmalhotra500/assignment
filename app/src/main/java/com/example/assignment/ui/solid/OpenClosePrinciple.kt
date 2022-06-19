@@ -5,6 +5,7 @@ fun main() {
     customerInfo.totalAmount=10
     customerInfo.tax=10
     customerInfo.calculateOrder()
+
     println("Your balance is ${customerInfo.balance}")
 }
 open class CalculateOrderOCP {
